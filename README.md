@@ -12,12 +12,16 @@ Linux
 
 ## Program walk-through
 
-1. We created a new directory for our project in the terminal on our VM and initialized a new Git repository: 
+1. We created a new directory for our project in the terminal on our VM and initialized a new Git repository. After that, we crafted a Python file `caesar_cipher.py` (you may dive into it and read the listed comments). 
 
 ![](https://imgur.com/Sg7csGk.png)
 
-2. Then we crafted a Python file `caesar_cipher.py`.
-
-3. Now let's try different strings and shift values to ensure the encryption and decryption functions work as expected.
+2. Now let's try different strings and shift values to ensure the encryption and decryption functions work as expected.
 
 ![](https://imgur.com/JoE9r6y.png)![](https://imgur.com/WIWVQFW.png)
+
+## Summary
+
+- `encrypt(text, shift)`: Encrypts the input text by shifting each letter by shift positions.
+- `decrypt(ciphertext, shift)`: Decrypts the ciphertext by shifting each letter back by shift positions.
+- `main()`: Handles user input and decides whether to encrypt or decrypt based on the user's choice.
