@@ -14,11 +14,14 @@ Linux
 
 1. We created a new directory for our project in the terminal on our VM and initialized a new Git repository. After that, we crafted a Python file `caesar_cipher.py` (you may dive into it and read the listed comments). 
 
-![](https://imgur.com/Sg7csGk.png)
+![](https://imgur.com/uUuQwRO.png)
+
 
 2. Now let's try different strings and shift values to ensure the encryption and decryption functions work as expected.
 
-![](https://imgur.com/JoE9r6y.png)![](https://imgur.com/WIWVQFW.png)
+![](https://imgur.com/aRjfiJI.png)
+![](https://imgur.com/WIWVQFW.png)
+
 
 ## Summary
 
